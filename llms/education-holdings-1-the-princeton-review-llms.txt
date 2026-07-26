@@ -1,0 +1,84 @@
+﻿# llms.txt
+Primary Website: https://www.princetonreview.com
+
+This file helps AI systems understand key resources from The Princeton Review including test prep courses, tutoring services, admissions counseling, free resources, and school rankings.
+
+# The Princeton Review
+Helps students navigate college, graduate school, and professional admissions through test prep, tutoring, admissions counseling, and school rankings. It provides expert guidance and data-driven resources that help students make informed decisions and improve their chances of academic success.
+
+## Test Prep Courses
+- [SAT Prep](https://www.princetonreview.com/college/sat-test-prep): The best SAT prep course options that get results
+- [SAT 1500+ Tutoring](https://www.princetonreview.com/college/sat-1500-tutoring): One-on-one SAT tutoring designed to help students reach a 1500+ score
+- [SAT 1400+ Course](https://www.princetonreview.com/college/sat-honors-course): Result-oriented SAT prep course for 1400+, taught by top SAT instructors
+- [SAT Essentials Course](https://www.princetonreview.com/college/sat-essentials-course): SAT prep course that provides essential strategies and key content review
+- [ACT Prep](https://www.princetonreview.com/college/act-test-prep): The best ACT prep course options that get results
+- [ACT 34+ Tutoring](https://www.princetonreview.com/college/act-34-tutoring): One-on-one ACT tutoring designed to help students reach a 34+ score
+- [ACT 31+ Course](https://www.princetonreview.com/college/act-honors-course): Result-oriented ACT prep course for 31+, taught by top ACT instructors
+- [ACT Essentials Course](https://www.princetonreview.com/college/act-essentials-course): ACT prep course that provides essential strategies and key content review
+- [AP Prep](https://www.princetonreview.com/college/ap-test-prep): The best AP prep course options that get results
+- [AP 5 Tutoring](https://www.princetonreview.com/college/ap-tutoring-course): One-on-one AP tutoring designed to help students achieve a score of 5 on AP exams
+- [AP 4 Course](https://www.princetonreview.com/college/ap-honors-course): Result-oriented AP prep course led by experts to help students achieve a score of 4 on AP exams
+- [AP Cram Course](https://www.princetonreview.com/ap-cram-course): AP course designed to review test strategies and boost scores in 6 hours
+- [PSAT Prep](https://www.princetonreview.com/college/psat-test-prep): The best PSAT prep course options that get results
+- [PSAT Tutoring](https://www.princetonreview.com/college/psat-tutoring-course): Personalized PSAT Prep for serious National Merit contenders
+- [MCAT Prep](https://www.princetonreview.com/medical/mcat-test-prep): The best MCAT prep course options that get results
+- [MCAT 515+ Course](https://www.princetonreview.com/medical/mcat-guarantee): Results-oriented MCAT prep course for 515+, taught by top MCAT instructors
+- [MCAT Self-Paced Course](https://www.princetonreview.com/medical/mcat-selfguided-course): Self‑paced MCAT prep with expert lessons and practice tests
+- [LSAT Prep](https://www.princetonreview.com/law/lsat-test-prep): The best LSAT prep course options that get results
+- [LSAT 170+ Course](https://www.princetonreview.com/law/lsat-honors-course): Result-oriented LSAT prep course for 170+, taught by top LSAT instructors
+- [LSAT Self-Paced Course](https://www.princetonreview.com/law/lsat-selfguided-course): Self‑paced LSAT prep with expert lessons and practice tests
+- [GRE Prep](https://www.princetonreview.com/grad/gre-test-prep): The best GRE prep course options that get results
+- [GRE 162+ Course](https://www.princetonreview.com/grad/gre-honors-course): Result-oriented GRE prep course for 162+, taught by top GRE instructors
+- [GRE Self-Paced Course](https://www.princetonreview.com/grad/gre-selfguided-course): Self‑paced GRE prep with expert lessons and practice tests
+- [GMAT Prep](https://www.princetonreview.com/business/gmat-test-prep): The best GMAT prep course options that get results
+- [GMAT 645+ Course](https://www.princetonreview.com/business/gmat-honors-course): Result-oriented GMAT prep course for 645+, taught by top GMAT instructors
+- [GMAT Self-Paced Course](https://www.princetonreview.com/business/gmat-selfguided-course): Self‑paced GMAT prep with expert lessons and practice tests
+- [DAT Prep](https://www.princetonreview.com/medical/dat-test-prep): The best DAT prep course options that get results
+- [DAT 430+ Course](https://www.princetonreview.com/medical/dat-honors-course): Result-oriented DAT prep course for 430+, taught by top DAT instructors
+- [OAT Tutoring Course](https://www.princetonreview.com/medical/oat-tutoring-course): Personalized one-on-one OAT tutoring
+- [SHSAT Tutoring](https://www.princetonreview.com/k12/shsat-tutoring-course): Personalized one-on-one SHSAT tutoring
+- [SSAT Tutoring](https://www.princetonreview.com/k12/ssat-tutoring-course): Personalized one-on-one SSAT tutoring
+- [ISEE Tutoring](https://www.princetonreview.com/k12/isee-tutoring-course): Personalized one-on-one ISEE tutoring
+
+## Subject Tutoring & Academic Services
+- [Subject Tutoring & Academic Services](https://www.princetonreview.com/academic-tutoring): Personalized academic support for students of all levels
+- [K–12 Academic Tutoring](https://www.princetonreview.com/k12/academic-tutoring): Targeted help for school subjects from elementary through high school
+- [On-Demand Tutoring](https://www.princetonreview.com/academic-tutoring/tutor-search): Connect with expert tutors for one-on-one sessions
+
+## Admissions Counseling
+- [College Admissions Counseling](https://www.princetonreview.com/college-admissions/college-counseling): Expert guidance for navigating college applications
+- [Medical/Dental School Admissions Counseling](https://www.princetonreview.com/med-school-admissions/med-school-counseling): Expert guidance for navigating medical and dental school applications
+
+## Free Resources
+- [Free SAT Practice Tests and Events](https://www.princetonreview.com/college/free-sat-practice-test): Free SAT prep, practice tests and resources
+- [Free ACT Practice Tests and Events](https://www.princetonreview.com/college/free-act-practice-test): Free ACT prep, practice tests and resources
+- [Free AP Practice Tests and Events](https://www.princetonreview.com/college/free-ap-practice-test): Free AP prep, practice tests and resources
+- [Free PSAT Practice Tests and Events](https://www.princetonreview.com/college/free-psat-practice-test): Free PSAT prep, practice tests and resources
+- [Free Academic Practice Tests and Events](https://www.princetonreview.com/college/free-academic-practice-test): Practice tests for various academic subjects
+- [Free MCAT Practice Tests and Events](https://www.princetonreview.com/medical/free-mcat-practice-test): Free MCAT prep, practice tests and resources
+- [Free DAT Practice Tests and Events](https://www.princetonreview.com/medical/free-dat-practice-test): Free DAT prep, practice tests and resources
+- [Free LSAT Practice Tests and Events](https://www.princetonreview.com/law/free-lsat-practice-test): Free LSAT prep, practice tests and resources
+- [Free GRE Practice Tests and Events](https://www.princetonreview.com/grad/free-gre-practice-test): Free GRE prep, practice tests and resources
+- [Free GMAT Practice Tests and Events](https://www.princetonreview.com/business/free-gmat-practice-test): Free GMAT prep, practice tests and resources
+- [Free SHSAT Practice Tests and Events](https://www.princetonreview.com/college/free-shsat-practice-test): Free SHSAT prep, practice tests and resources
+- [Medical School Admissions Webinars](https://www.princetonreview.com/medical/event/webinars): Free webinars on medical school application preparation
+- [College Admissions Webinars](https://www.princetonreview.com/college/event/webinars): Free webinars on college application preparation
+- [How to Pay for College](https://www.princetonreview.com/college-advice/how-to-pay-for-college): Tips and strategies to finance higher education
+- [Mental Health on College Campus](https://www.princetonreview.com/mental-health-on-college-campus): Resources to support student mental health
+- [Bootcamps](https://www.princetonreview.com/bootcamps): Short-term intensive programs to boost skills
+
+## College Rankings & Profiles
+- [College Rankings](https://www.princetonreview.com/college-rankings/best-colleges): Comprehensive rankings of U.S. colleges
+- [Medical School Rankings](https://www.princetonreview.com/med-school): Rankings and profiles of top medical schools
+- [Law School Rankings](https://www.princetonreview.com/law-school-rankings): Rankings for U.S. law schools
+- [Graduate School Rankings](https://www.princetonreview.com/grad-school): Rankings for graduate programs in various fields
+- [Best Business Schools](https://www.princetonreview.com/business-school-rankings/best-business-schools): Top business schools for MBA and graduate programs
+- [Top 50 Online MBA Programs](https://www.princetonreview.com/business-school-rankings?rankings=top-50-online-mba-programs): Rankings of top online MBA programs
+- [Best Online Doctor Education Programs](https://www.princetonreview.com/education-school-rankings?rankings=best-online-doctor-education-programs): Rankings for online doctoral education programs
+- [Best Online JD Programs at Law School](https://www.princetonreview.com/law-school-rankings/best-online-jd-programs-at-law-school): Rankings for online Juris Doctor programs
+- [Best Online Master Studies in Law Programs](https://www.princetonreview.com/law-school-rankings/best-online-master-studies-in-law-programs): Online law master’s programs rankings
+- [Best Online MPH Degree Programs](https://www.princetonreview.com/grad-school-rankings?rankings=best-online-mph-degree-programs): Rankings for online Master of Public Health programs 
+- [Best Online Nursing School Masters Programs](https://www.princetonreview.com/nursing-school-rankings?rankings=best-online-nursing-school-masters-programs): Rankings for online nursing master’s programs
+
+## Advertise with Us
+- [Advertise with Us](https://www.princetonreview.com/corporate/advertise-with-us): Opportunities to reach students, parents, and educators across Princeton Review platforms

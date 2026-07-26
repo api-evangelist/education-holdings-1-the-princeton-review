@@ -1,8 +1,16 @@
 aid: education-holdings-1-the-princeton-review
 name: Education Holdings 1 (The Princeton Review)
-description: 'Education Holdings 1 (The Princeton Review) is a company surfaced as a portfolio company
-  of bain-capital-ventures and added to the API Evangelist network as a stub for enrichment. Sector: commerce.
-  This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Education Holdings 1 operates The Princeton Review, an educational services company
+  offering standardized test preparation, one-on-one and on-demand tutoring, and college,
+  graduate, medical, and law school admissions counseling. The Princeton Review prepares
+  students for the SAT, ACT, PSAT, AP, MCAT, DAT, OAT, LSAT, GRE, GMAT, SSAT, ISEE, and
+  SHSAT through live, self-paced, and honors courses, publishes college and graduate school
+  rankings and guidebooks, and provides free practice tests, events, and study resources.
+  The company was surfaced as a portfolio company of Bain Capital Ventures and profiled in
+  the API Evangelist network. The Princeton Review operates a consumer web presence rather
+  than a public developer program; it publishes an llms.txt AI-discovery file but does not
+  expose a documented public API, developer portal, or OpenAPI at this time.
 url: https://raw.githubusercontent.com/api-evangelist/education-holdings-1-the-princeton-review/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,15 +18,59 @@ x-backed-by:
 - bain-capital-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://www.princetonreview.com/cms-content/tpr-logo-og.jpg
 tags:
 - Company
 - Commerce
+- Education
+- Test Prep
+- Tutoring
+- Admissions
+- EdTech
+- Consumer
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: DomainSecurity
+  url: security/education-holdings-1-the-princeton-review-domain-security.yml
+- type: Website
+  url: https://www.princetonreview.com
+- type: About
+  url: https://www.princetonreview.com/corporate/about-us
+- type: Support
+  url: https://www.princetonreview.com/help/online-help
+- type: Contact
+  url: https://www.princetonreview.com/corporate/contact
+- type: Login
+  url: https://www.princetonreview.com/signin
+- type: TermsOfService
+  url: https://www.princetonreview.com/terms
+- type: PrivacyPolicy
+  url: https://www.princetonreview.com/privacy
+- type: LLMsTxt
+  url: llms/education-holdings-1-the-princeton-review-llms.txt
+- type: WellKnown
+  url: well-known/education-holdings-1-the-princeton-review-well-known.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

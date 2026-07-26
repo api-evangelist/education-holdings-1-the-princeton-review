@@ -1,0 +1,23 @@
+generated: '2026-07-19'
+method: searched
+source: live probe of https://www.princetonreview.com/.well-known/*
+host: https://www.princetonreview.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 200
+  file: ../llms/education-holdings-1-the-princeton-review-llms.txt
+notes: >-
+  No /.well-known/ discovery documents are published. A root /llms.txt (RFC-style AI
+  discovery file, text/plain, 200) is published and captured verbatim under llms/.
