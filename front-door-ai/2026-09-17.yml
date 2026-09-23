@@ -1,0 +1,27 @@
+# Front Door AI Index — education-holdings-1-the-princeton-review — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: education-holdings-1-the-princeton-review
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.princetonreview.com
+  final_host: www.princetonreview.com
+  ownership: own
+  owner: education-holdings-1-the-princeton-review
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 15
+  host_score: 15
+  density: 8.93
+  words: 1680
+  tiers:
+    agentic: 0
+    core: 15
+    model: 0
+  ambiguous: 2
+  top_terms:
+    AI: 14
+    smart: 2
+    generative ai: 1
